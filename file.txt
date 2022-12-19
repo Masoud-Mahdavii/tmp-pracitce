@@ -4,3 +4,4 @@ print("hello word")
 # How to write a new function
  def add(a, b):
      
+print("hello word)
