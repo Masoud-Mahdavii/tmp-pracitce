@@ -16,3 +16,8 @@ first_add
 print("masoud mahdavi")
 print("mahda amini")
 print("hello qatar")
+
+def sub():
+    jls_extract_var = """"""
+    jls_extract_var
+    pass
