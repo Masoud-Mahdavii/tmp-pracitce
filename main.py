@@ -17,12 +17,10 @@ print("masoud mahdavi")
 print("mahda amini")
 print("hello qatar")
 
-<<<<<<< HEAD
 def sub():
     jls_extract_var = """"""
     jls_extract_var
     pass
-=======
 
 class Human:
     def __init__(self, color, tall, weigh, age):
@@ -33,4 +31,3 @@ class Human:
         
     def __str__(self):
         return f"{self.color} {self} {self.age}"
->>>>>>> iss55
