@@ -14,3 +14,6 @@ class Human:
         self.weigh = weigh
         self.age = age
         
+    def __str__(self):
+        return f"{self.color} {self} {self.age}"
+        
