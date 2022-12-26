@@ -31,3 +31,5 @@ class Human:
         
     def __str__(self):
         return f"{self.color} {self} {self.age}"
+ print(mehershad shahidi)
+ 
