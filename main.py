@@ -16,7 +16,9 @@ print('Masoud Mahdavi')
 print('hasan najafi')
 
 
-
+def add(a, b):
+    return a + b
+    
 
 
  
