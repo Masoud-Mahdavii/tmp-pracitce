@@ -12,13 +12,13 @@ def add(a, b):
 first_add=add(3, 4)
 first_add
 
-print('Masoud Mahdavi')
-print('hasan najafi')
+print('Masoud,Mahdavi')
+print('hasan,najafi')
 
 
 def add(a, b):
     return a + b
-    
+
 
 
  
