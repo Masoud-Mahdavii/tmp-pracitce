@@ -15,12 +15,6 @@ first_add
 print('Masoud,Mahdavi')
 print('hasan,najafi')
 
-
-def add(a, b):
-    return a + b
-
-
-
  class Human:
         def __init__(self, color, tall, weigh, age):
         self.color = color
