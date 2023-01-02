@@ -17,3 +17,9 @@ class Human:
     def __str__(self):
         return f"{self.color} {self} {self.age}"
         
+    class Human:
+    def __init__(self, color, tall, weigh, age):
+        self.color = color
+        self.tall = tall
+        self.weigh = weigh
+        self.age = age
