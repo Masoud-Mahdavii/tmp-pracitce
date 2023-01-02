@@ -21,4 +21,9 @@ def add(a, b):
 
 
 
- 
+ class Human:
+        def __init__(self, color, tall, weigh, age):
+        self.color = color
+        self.tall = tall
+        self.weigh = weigh
+        self.age = age
